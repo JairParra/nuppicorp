@@ -48,7 +48,9 @@ body {
 
 .subtitle {
     font-size: 24px;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
+    font-style: italic;
+    color: #AAAAAA; /* Lighter grey color */
 }
 
 /*
