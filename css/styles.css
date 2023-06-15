@@ -49,19 +49,7 @@ body {
 .subtitle {
     font-size: 24px;
     margin-bottom: 8px;
-    font-style: italic;
-    color: #AAAAAA; /* Lighter grey color */
 }
-
-/*
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    margin-bottom: 30px;
-}
-*/
-
 
 .video-container {
     position: relative;
@@ -92,4 +80,11 @@ body {
     border-radius: 50%;
     /* Make the image have round borders */
     object-fit: cover;
+}
+
+#mainsub { 
+    font-size: 22px;
+    margin-bottom: 6px;
+    font-style: italic;
+    color: #AAAAAA; /* Lighter grey color */
 }
